@@ -577,3 +577,7 @@ footer {
     align-items: center;
     display: flex;
 }
+.lenovo-thinks{
+    position: relative;
+    left: 50%;
+}
