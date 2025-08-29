@@ -569,3 +569,12 @@ footer {
         opacity: 0;
     }
 }
+
+.lenovo-thinks,
+.pro-90 {
+    width: 50%;
+    border-radius: 5%;
+    align-items: center;
+    display: flex;
+    position: relative;
+}
